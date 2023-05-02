@@ -16,7 +16,6 @@ misalnya python, namun jika kita lihat secara proses kurang lebih hampir mirip.
 
 Sekarang kok bisa beda ya antara data scraping dan data entry padahal tujuan nya sama ya itu membuat data report agar bisa dibaca dan digunakan ke berbagai keperluan. berikut adalah cara kerjanya
 
-![Cara Kerja Data Scraping](docs/images/Panduan-dan-Teknik-Teknik-Web-Scraping.png)
-
+![Cara Kerja Data Scraping](images/Panduan-dan-Teknik-Teknik-Web-Scraping.png)
 
 disini kita akan bedah satu persatu mengapa prosesnya seperti itu
