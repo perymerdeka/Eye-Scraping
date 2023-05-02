@@ -1,0 +1,2 @@
+class NikeCrawler(object):
+    pass
